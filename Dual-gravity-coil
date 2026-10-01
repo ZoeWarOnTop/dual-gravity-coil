@@ -154,7 +154,7 @@ local function applyGravityEffect(player, tool)
 
 	-- Jump behavior
 	if useJumpPower then
-		humanoid.JumpPower = 50
+		humanoid.JumpPower = 72
 	else
 		humanoid.JumpHeight = 18
 	end
